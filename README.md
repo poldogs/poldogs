@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Leopoldo</h1>
 <h3 align="center">A Front End Developer from Spain</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/corgi-dog-hacker-yengsq2icv973y1w.gif" >
+<img align="right" alt="Coding" width="400" src="https://images.fineartamerica.com/images/artworkimages/medium/3/pembroke-welsh-corgi-dog-owner-pet-laptop-gift-thomas-larch-transparent.png" >
 
 - 🌱 I’m currently learning **Angular Redux, React Native**
 
