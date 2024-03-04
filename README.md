@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Angular, React**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1teOj1v8-kJvKMtLRsZjnRq9T9jD3t9TF/view?usp=sharing](https://drive.google.com/file/d/1teOj1v8-kJvKMtLRsZjnRq9T9jD3t9TF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1emNci6YsvtabwsvcxEvCCq02O1YrBRfT/view?usp=sharing](https://drive.google.com/file/d/1emNci6YsvtabwsvcxEvCCq02O1YrBRfT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
